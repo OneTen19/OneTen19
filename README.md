@@ -26,6 +26,6 @@
 
 <div align="center">
   
-![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Kimhanyeol&show_icons=true&theme=moltack)
+![아이디's github stats](https://github-readme-stats.vercel.app/api?username=Kimhanyeol&show_icons=true&theme=flag-india)
 
 </div>

@@ -15,7 +15,7 @@
 
 <div align="center">
   <br/><br/><br/>🚀contact🚀<br/><br/>
-<a href="https://www.instagram.com/x.one._.ten.x/" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/loeynamik/" target="_blank"><img src="https://img.shields.io/badge/instagram-black?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://dawning-record.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-black?style=flat-square&logo=tistory&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/khy000426@naver.com-black?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCp-Mi6hFwEHXDk-uKT9uZjw" target="_blank"><img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=white"/></a>

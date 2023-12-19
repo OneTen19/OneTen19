@@ -3,7 +3,8 @@
   📚Tech Stack📚<br/><br/>
   💡used as the main💡<br/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=android&logoColor=white"/><br/><br/>
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/><br/><br/>
   💡used at least once💡<br/>
 <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>

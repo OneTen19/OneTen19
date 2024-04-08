@@ -30,7 +30,7 @@
 
 
 
-<br/><br/><br/>
+
 <div align="center">
 
 ![아이디's github stats](https://github-readme-stats.vercel.app/api?username=OneTen19&show_icons=true&theme=flag-india) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneTen19)](https://github.com/OneTen19)

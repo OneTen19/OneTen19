@@ -1,7 +1,7 @@
 <div align="left">   
         <h1>Hello, I'm OneTen🍎</h1>
 
-**안녕하세요. iOS 개발자 OneTen입니다.**
+**안녕하세요. App 개발자 OneTen입니다.**
 
 <br>
 

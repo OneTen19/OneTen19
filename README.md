@@ -28,7 +28,7 @@
 
 <details>
 <summary>
-  :fire: 내가 지금 배우는 ... 
+  :fire: 내가 지금 배우고 있는 ... 
 </summary>
    <br>
 

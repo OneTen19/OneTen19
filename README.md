@@ -1,9 +1,6 @@
 <div align="left">   
         <h1>Hello, I'm OneTen🍎</h1>
 
-<img src="https://github.com/OneTen19/OneTen19/assets/63261054/4df75cf1-2387-47a0-8af8-022215b829d7">
-
-<br>
 
 **안녕하세요. App 개발자 OneTen입니다🍎**
 

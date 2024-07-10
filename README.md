@@ -1,10 +1,9 @@
 <div align="left">   
         <h1>Hello, I'm OneTen🍎</h1>
 
+**Thank you for visiting my github.**
 
-**안녕하세요. App 개발자 OneTen입니다.**
-
-**iOS 개발에 능숙한 플러터 개발자를 꿈꾸고 있습니다.**
+**I'm interested in Swift and iOS development **
 
 <br>
 

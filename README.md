@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=OneTen&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=OneTen&reversal=false&textBg=false&fontAlignY=40&animation=twinkling&descAlign=50)
 
 # Hello, I'm OneTen🍎
 

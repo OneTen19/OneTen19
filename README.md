@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=OneTen&fontSize=90&fontColor=FFFFFF&animation=twinkling)
+
+
 <div align="left">   
         <h1>Hello, I'm OneTen🍎</h1>
 
@@ -37,6 +40,8 @@
    <br>
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=Plastic&logo=swift&logoColor=white">
+<img src="https://img.shields.io/badge/-SwiftUI-000000?style=Plastic-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Xcode-147EFB?style=Plastic-square&logo=Xcode&logoColor=white"/>
 
 </details>
 
@@ -52,6 +57,24 @@
 </details>
 
 
+<details>
+        
+<summary>
+  :pencil2: 사용해 본 ... 
+</summary>
+<br>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=Plastic&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=Plastic&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=Plastic&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=Plastic&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=Plastic&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=Plastic&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=Plastic&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=Plastic&logo=c&logoColor=white">
+
+</details>
+
 
 <details>
         
@@ -64,4 +87,3 @@
 
 
 </details>
-

@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=OneTen&fontSize=90&fontColor=FFFFFF&animation=twinkling)
 
-
-<div align="left">   
-        <h1>Hello, I'm OneTen🍎</h1>
+# Hello, I'm OneTen🍎
 
 **Thank you for visiting my github.**
 
@@ -27,7 +25,7 @@
   ]
  ```
 
-</div>
+
 
 </br>
 

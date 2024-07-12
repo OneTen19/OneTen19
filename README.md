@@ -44,7 +44,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 관심 있는 ... 
 </summary>
@@ -55,7 +55,7 @@
 </details>
 
 
-<details open>
+<details>
 <summary>
   :pencil2: 사용해 본 ... 
 </summary>
@@ -73,7 +73,7 @@
 </details>
 
 
-<details open>
+<details>
         
 <summary>
   :poop: 내가 만든 ... 

@@ -12,7 +12,6 @@
 - [x] 소프트 스킬을 향상시키기 위한 다양한 경험하기
 - [ ] 졸업 후 계속해서 성장하는 개발자되기
 
-
 <br>
 
   ```javascript
@@ -24,8 +23,6 @@
     }
   ]
  ```
-
-
 
 </br>
 
@@ -42,18 +39,6 @@
 <img src="https://img.shields.io/badge/-Xcode-147EFB?style=Plastic-square&logo=Xcode&logoColor=white"/>
 
 </details>
-
-
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 관심 있는 ... 
-</summary>
-   <br>
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=Plastic&logo=flutter&logoColor=white">
-
-</details>
-
 
 <details>
 <summary>
@@ -82,5 +67,20 @@
 ##### ABC 가계부
 [<img src="https://img.shields.io/badge/GitHub-100000?style=Plastic&logo=github&logoColor=white">](https://github.com/OneTen19/abc_money_diary)
 
+##### 납작마켓 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=Plastic&logo=github&logoColor=white">](https://github.com/SOPT-all/35-APPJAM-iOS-NAPZAKMARKET)
+
 
 </details>
+
+
+</br>
+
+## **Activity**
+
+- **And Sopt 35th iOS**  
+  2024.09 - 2025.02
+
+- **AI컴퓨터공학부 학술 동아리 InQ**  
+  2022.03 - 현재_
+

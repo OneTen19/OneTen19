@@ -46,8 +46,8 @@
    <br>
 
 <img src="https://img.shields.io/badge/Swift-FA7343?style=Plastic&logo=swift&logoColor=white">
-<img src="https://img.shields.io/badge/-SwiftUI-000000?style=Plastic-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Xcode-147EFB?style=Plastic-square&logo=Xcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-147EFB?style=Plastic&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/UIKit-000000?style=Plastic&logo=UIKit&logoColor=white"/>
 
 </details>
 
@@ -75,10 +75,10 @@
   :poop: 내가 만든 ... 
 </summary>
 
-##### ABC 가계부
+##### ABC 가계부 - 낭비성 지출 관리
 [<img src="https://img.shields.io/badge/GitHub-100000?style=Plastic&logo=github&logoColor=white">](https://github.com/OneTen19/abc_money_diary)
 
-##### 납작마켓 
+##### 납작마켓 - 덕후들이 사랑하는 거래공간
 [<img src="https://img.shields.io/badge/GitHub-100000?style=Plastic&logo=github&logoColor=white">](https://github.com/SOPT-all/35-APPJAM-iOS-NAPZAKMARKET)
 
 

@@ -29,8 +29,8 @@
 </br>
 
 <p align="center">  
-  <img src="https://render.gitanimals.org/farms/OneTen19" align="center" width="450" height="300"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=OneTen19&theme=graywhite" align="center" width="500" height="300">  
+  <img src="https://render.gitanimals.org/farms/OneTen19" align="center" width="300" height="350"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=OneTen19&theme=graywhite" align="center" width="350" height="300">  
 </p>
 
 

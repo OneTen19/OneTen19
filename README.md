@@ -52,6 +52,9 @@
 
 ## **Activity**
 
+- **YAPP 27th iOS**  
+  2025.11 ~ 
+  
 - **At Sopt 36th iOS**  
   2025.03 ~ 2025.07
 

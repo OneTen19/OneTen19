@@ -53,7 +53,7 @@
 ## **Activity**
 
 - **YAPP 27th iOS**  
-  2025.11 ~ 
+  2025.11 ~ now
   
 - **At Sopt 36th iOS**  
   2025.03 ~ 2025.07
@@ -62,7 +62,7 @@
   2024.09 ~ 2025.02
 
 - **AI컴퓨터공학부 학술 동아리 InQ**  
-  2022.03 ~
+  2022.03 ~ now
 
 - **PHTextEditor**   
   SwiftUI TextEditor with Placeholder Library   

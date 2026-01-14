@@ -30,7 +30,7 @@
 
 <p align="center">  
   <img src="https://render.gitanimals.org/farms/OneTen19" align="center" width="300" height="350"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTen19&bg_color=ffffff&color=000000&line=888888&point=000000&area=false&hide_border=true" align="center" width="600" height="350"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTen19&bg_color=ffffff&color=000000&line=888888&point=000000&area=false&hide_border=true" align="center" width="550" height="350"/>
 </p>
 
 

@@ -29,8 +29,8 @@
 </br>
 
 <p align="center">  
-  <img src="https://render.gitanimals.org/farms/OneTen19" align="center" width="350" height="350"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=OneTen19&theme=graywhite" align="center" width="400" height="300">  
+  <img src="https://render.gitanimals.org/farms/OneTen19" align="center" width="300" height="350"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTen19&bg_color=ffffff&color=000000&line=888888&point=000000&area=false&hide_border=true" align="center" width="600" height="350"/>
 </p>
 
 
@@ -39,10 +39,12 @@
 
 ## Projects
 
+<a href="https://github.com/YAPP-Github/27th-App-Team-2-iOS"><img src="https://github.com/user-attachments/assets/14f1b4df-65a4-4add-9eae-dd8baa2b2a24" width="70"/></a> 
 <a href="https://github.com/napzakmarket/Napzak-iOS"><img src="https://github.com/user-attachments/assets/e0404779-1061-4585-b027-0555f6f669ec" width="70"/></a> 
 <a href="https://github.com/cerdeuk/CERTI-iOS"><img src="https://github.com/user-attachments/assets/cdf5b806-0c77-42a6-b1f9-9695a33d64bb" width="70"/></a> 
 <a href="https://github.com/dev-richdiary/RichDiary-iOS"><img src="https://github.com/user-attachments/assets/1e73e0e1-1d64-44ad-9fe7-7ffdb4f60e78" width="70"/></a> 
 
+- **[<a href="https://github.com/YAPP-Github/27th-App-Team-2-iOS">NEKI</a>]** iOS 개발 (2025.11 ~ )
 - **[<a href="https://github.com/napzakmarket/Napzak-iOS">Napzak Market</a>]** iOS 개발 (2024.12 ~ )
 - **[<a href="https://github.com/cerdeuk/CERTI-iOS">Certi</a>]** iOS 리드 개발 (2025.06 ~ )
 - **[<a href="https://github.com/dev-richdiary/RichDiary-iOS">부자가계부 - Rich Diary</a>]** iOS 1인 개발 (2025.08 ~ )

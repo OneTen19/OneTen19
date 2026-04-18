@@ -28,9 +28,9 @@
 
 </br>
 
-<p align="center">  
-  <img src="https://render.gitanimals.org/farms/OneTen19" align="center" width="300" height="350"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTen19&bg_color=ffffff&color=000000&line=888888&point=000000&area=false&hide_border=true" align="center" width="450" height="350"/>
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/OneTen19" width="300" style="display:inline-block;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OneTen19&bg_color=ffffff&color=000000&line=888888&point=000000&area=false&hide_border=true" width="450" style="display:inline-block;" />
 </p>
 
 

@@ -62,5 +62,9 @@
   * 36th iOS Part OB <sub><sup>2025.03 - 2025.07</sup></sub>   
   * 35th iOS Part YB <sub><sup>2024.09 - 2025.02</sup></sub>   
 
+* [SnapKit](https://github.com/SnapKit/SnapKit)
+  * Contributor - [Remove explicit 'make' label from constraint closures
+](https://github.com/SnapKit/SnapKit/pull/837) <sub><sup>2025.09</sup></sub>   
+
 
 </br>
